@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="hhit_blue">#1A2776</color>
+    <color name="btn_blue_normal">#4d94ca</color>
+    <color name="btn_blue_pressed">#6DA1CB</color>
+    <color name="line_color">#ffd0d0d0</color>
+    <color name="main_front_color">#ff333333</color>
+    <color name="drawer_nor_color">#7fffffff</color>
+    <color name="drawer_clicked_color">#4c000000</color>
+    <color name="red_front_color">#ffd9593d</color>
+    <color name="common_clicked_color">#26000000</color>
+    <color name="actionbar_bg_pressed">#0893C8</color>
+    <color name="card_background">#FFF</color>
+    <color name="card_activated">#CFE9F3</color>
+    <color name="card_pressed">#7E0099CC</color>
+    <color name="blue">#3993cf</color>
+    <!-- james's color -->
+
+    <color name="gray">#EBEBEB</color>
+    <color name="grey">#8D8D8D</color>
+    <color name="grey_middle">#808080</color>
+    <color name="grey_deep">#3B3F45</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FFFFFF</color>
+    <color name="black">#333333</color>
+    <color name="hhit_text_gray">#aaaaaa</color>
+    <color name="android_green_pressed">#99CC11</color>
+    <!-- google推荐颜色 -->
+    <color name="android_blue_light">#ff6ac3e5</color>
+    <color name="android_blue">#5ebd00</color>
+    <color name="android_purple">#AA66CC</color>
+    <color name="android_green">#99CC00</color>
+    <color name="android_orange">#FFBB33</color>
+    <color name="android_red">#FF4444</color>
+
+    <!-- linshen added -->
+    <color name="flyme_blue">#14B2FF</color>
+    <color name="napos_orange">#ffffb054</color>
+    <color name="napos_text_black">#333333</color>
+    <color name="napos_text_black_deep">#666666</color>
+    <color name="napos_blue_deep">#4d94ca</color>
+    <color name="napos_gray_light">#F3F3F3</color>
+
+</resources>
